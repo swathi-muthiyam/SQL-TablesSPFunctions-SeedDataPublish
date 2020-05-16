@@ -1,0 +1,9 @@
+C:\Users\Likhil\source\repos\DemoSql\DemoSql\bin\Debug\DemoSql.dacpac
+C:\Users\Likhil\source\repos\DemoSql\DemoSql\bin\Debug\DemoSql.dll
+C:\Users\Likhil\source\repos\DemoSql\DemoSql\bin\Debug\DemoSql.pdb
+C:\Users\Likhil\source\repos\DemoSql\DemoSql\obj\Debug\DemoSql.dll
+C:\Users\Likhil\source\repos\DemoSql\DemoSql\obj\Debug\DemoSql.pdb
+C:\Users\Likhil\source\repos\DemoSql\DemoSql\obj\Debug\Model.xml
+C:\Users\Likhil\source\repos\DemoSql\DemoSql\obj\Debug\refactor.xml
+C:\Users\Likhil\source\repos\DemoSql\DemoSql\obj\Debug\postdeploy.sql
+C:\Users\Likhil\source\repos\DemoSql\DemoSql\obj\Debug\predeploy.sql
